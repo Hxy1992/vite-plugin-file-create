@@ -11,7 +11,7 @@ npm i -D vite-plugin-file-create # yarn add -D vite-plugin-file-create
 
 ## 使用
 
-示例：生成版本号文件并保存到输出目录。
+下面是一个示例：生成版本号文件并保存到输出目录。
 
 ```js
 // vite.config.js / vite.config.ts
