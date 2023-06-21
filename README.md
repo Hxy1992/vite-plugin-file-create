@@ -15,7 +15,7 @@ npm i -D vite-plugin-file-create # yarn add -D vite-plugin-file-create
 
 ```js
 // vite.config.js / vite.config.ts
-import { viteFileCreate } from 'vite-plugin-static-copy'
+import { viteFileCreate } from 'vite-plugin-file-create'
 
 const versionStr = `V1.0.1.${Date.now()}` // 版本号
 
