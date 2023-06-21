@@ -1,6 +1,6 @@
 {
   "name": "vite-plugin-file-create",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "一个vite插件, 在vite打包时创建文件并保存至输出目录",
 	"type": "module",
   "main": "./dist/index.js",
